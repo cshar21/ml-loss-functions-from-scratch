@@ -70,6 +70,9 @@ pip install -r requirements.txt
 
 ##  Author
 Chakshu Sharma
+
 🎓 B.Tech CSE | AI-ML Enthusiast
+
 📅 Project Timeline: June–July 2025
+
 📌 Focus: Concept clarity + code implementation
