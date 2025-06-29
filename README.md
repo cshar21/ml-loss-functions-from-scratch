@@ -15,12 +15,19 @@ This project implements and visualizes essential loss functions used in Machine 
 
 ## 📁 Folder Structure
 ml-loss-functions/
+
 ├── regression/ # MSE, MAE, Huber
+
 ├── classification/ # BCE, CCE, Hinge
+
 ├── graphs/ # All generated visualizations
+
 ├── utils/ # Unified test runner
+
 ├── report.md # In-depth theoretical report
+
 ├── README.md # Project overview
+
 └── requirements.txt # Dependencies
 
 
@@ -53,13 +60,13 @@ pip install -r requirements.txt
 
 4. Check report.md for:
 
-Full math derivations
+   Full math derivations
 
-Gradient explanations
+   Gradient explanations
 
-When to use which loss
+   When to use which loss
 
-Visual graph insights
+   Visual graph insights
 
 ##  Author
 Chakshu Sharma
