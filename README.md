@@ -44,6 +44,27 @@ ml-loss-functions/
 |                  | Categorical Cross-Entropy| `classification/categorical_crossentropy.py` |
 |                  | Hinge Loss               | `classification/hinge.py`         |
 
+
+## 📊 Loss Function Visualizations
+
+### 🔹 MSE
+![MSE](graphs/mse_graph.png)
+
+### 🔹 MAE
+![MAE](graphs/mae_graph.png)
+
+### 🔹 Huber Loss
+![Huber](graphs/huber_graph.png)
+
+### 🔹 Binary Cross-Entropy
+![BCE](graphs/binary_crossentropy_graph.png)
+
+### 🔹 Categorical Cross-Entropy
+![CCE](graphs/categorical_crossentropy_graph.png)
+
+### 🔹 Hinge Loss
+![Hinge](graphs/hinge_loss_graph.png)
+
 ---
 
 ## 🚀 Running the Project
