@@ -33,6 +33,29 @@ ml-loss-functions/
 
 ---
 
+## 🧪 🔍 Test Case Demonstration
+
+This project includes a script (`Utils/test_cases.py`) that runs all implemented loss functions on various sample inputs to demonstrate correctness and usability.
+
+### 📥 Test Input
+![Test Input](graphs/Input.png)
+
+> ✅ This image shows sample test cases including different predictions and labels across both regression and classification loss functions.
+
+### 📤 Test Output
+![Test Output](graphs/Output.png)
+
+> 🎯 The above output reflects the computed loss values and gradients printed for each function when the script is run. This helps validate the implementation with real data.
+
+> 🧪 Run the test script using:
+```bash
+python Utils/test_cases.py
+
+```
+
+
+---
+
 ## 📚 Loss Functions Covered
 
 | Category         | Loss Function            | File                              |
